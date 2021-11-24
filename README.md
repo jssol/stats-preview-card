@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/jssol/stats-preview-card](https://github.com/jssol/stats-preview-card)
-- Live Site URL: [https://jssol.github.io/stats-priview-card](https://jssol.github.io/stats-priview-card)
+- Live Site URL: [https://jssol.github.io/stats-preview-card](https://jssol.github.io/stats-preview-card)
 
 ## My process
 
